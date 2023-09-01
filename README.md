@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shamor14
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning on the odinproject
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me tmntx96@gmail.com
 
 <!---
